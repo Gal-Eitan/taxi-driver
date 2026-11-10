@@ -97,4 +97,4 @@ This level includes:
 **Main challenge:** Survive combinations of familiar threats while maintaining progress toward the destination.
 
 **Completion condition:** Reach the evacuation point before the vehicle is destroyed.
-![[Pasted image 20261110133624.png]]
+![Explosive Drive Level Diagrams](<Pasted image 20261110133624.png>)
